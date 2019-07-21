@@ -39,7 +39,7 @@ test:
     - "\"%R%\" -e \"library('gptk')\""  # [win]
 
 about:
-  home: ''
+  home: https://cran.r-project.org/package=gptk
   license: BSD_2_clause
   summary: The gptk package implements a general-purpose toolkit for Gaussian process regression
     with a variety of covariance functions (e.g. RBF, Mattern, polynomial, etc). Based
