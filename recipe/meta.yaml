@@ -15,7 +15,7 @@ source:
 build:
   noarch: generic
   merge_build_host: True  # [win]
-  number: 1001
+  number: 1002
   noarch: generic
   rpaths:
     - lib/R/lib/
@@ -46,6 +46,7 @@ about:
     on a MATLAB implementation by Neil D. Lawrence. See inst/doc/index.html for more
     details.
   license_family: BSD
+  license_file: LICENSE
 
 extra:
   recipe-maintainers:
