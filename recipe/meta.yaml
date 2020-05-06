@@ -46,6 +46,7 @@ about:
     on a MATLAB implementation by Neil D. Lawrence. See inst/doc/index.html for more
     details.
   license_family: BSD
+  license_file: LICENSE
 
 extra:
   recipe-maintainers:
