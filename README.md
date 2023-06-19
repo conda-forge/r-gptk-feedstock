@@ -1,11 +1,11 @@
-About r-gptk
-============
+About r-gptk-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gptk-feedstock/blob/main/LICENSE.txt)
 
 Home: https://cran.r-project.org/package=gptk
 
 Package license: BSD_2_clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gptk-feedstock/blob/main/LICENSE.txt)
 
 Summary: The gptk package implements a general-purpose toolkit for Gaussian process regression with a variety of covariance functions (e.g. RBF, Mattern, polynomial, etc). Based on a MATLAB implementation by Neil D. Lawrence. See inst/doc/index.html for more details.
 
